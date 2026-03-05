@@ -1,109 +1,137 @@
-🔷 NextSourcing
-Overview
+# 🚀 NextSourcing
 
-NextSourcing is a full-stack Garment Factory Management System built using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). The platform is designed to streamline factory operations by managing production, inventory, human resources, financial processes, and administrative tasks within a centralized system.
+## 📌 Overview
 
-Developed as a five-member collaborative project, each member handled a dedicated functional module. The system also includes an AI-powered novelty feature aimed at evaluating employee expertise in garment defect identification using image-based assessment.
+**NextSourcing** is a full-stack **Garment Factory Management System** built using the **MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)**.
 
-Features
-🏭 Production Management (IoT Integration)
+The platform streamlines factory operations by managing:
 
-Integrated IoT-based data tracking for monitoring production activities.
+- Production  
+- Inventory  
+- Human Resources  
+- Financial processes  
+- Administrative controls  
 
-Real-time production insights and operational updates.
+All within a centralized digital system.
 
-📦 Inventory Management
+Developed as a **five-member collaborative project**, each member handled a dedicated functional module.  
 
-Inventory tracking and stock control.
+The system also includes an **AI-powered novelty feature** that evaluates employee expertise in garment defect identification using an interactive image-based assessment.
 
-Automated low-stock alerts for proactive restocking.
+---
 
-Inventory reporting for data-driven decisions.
+## ✨ Core Features
 
-👥 HR Management
+### 🏭 Production Management (IoT Integration)
 
-Employee record management.
+- IoT-based production tracking  
+- Real-time operational insights  
+- Monitoring of manufacturing activities  
 
-Workforce organization and tracking.
+---
 
-💰 Financial Management
+### 📦 Inventory Management
 
-Financial record tracking and reporting.
+- Inventory tracking and stock control  
+- Automated low-stock alerts  
+- Inventory reporting and analytics  
 
-Revenue and operational cost insights.
+---
 
-🔐 Admin Panel
+### 👥 HR Management
 
-System-level management and control.
+- Employee record management  
+- Workforce tracking and organization  
 
-Centralized access to oversee all modules.
+---
 
-🤖 AI-Based Employee Skill Assessment (Novelty Feature)
+### 💰 Financial Management
 
-Image-based garment defect identification game.
+- Financial transaction tracking  
+- Revenue and cost reporting  
+- Operational financial insights  
 
-Employees are shown clothing defect images with a countdown timer.
+---
 
-Users select the correct defect type from given options.
+### 🔐 Admin Panel
 
-Scoring system calculates performance after 10 images.
+- Centralized system management  
+- Access control and oversight of all modules  
 
-Implemented using Python with a trained dataset for defect recognition logic.
+---
 
-My Role – Inventory Management
+## 🤖 AI-Based Employee Skill Assessment (Novelty Feature)
 
-I contributed to the design and development of the Inventory Management module using the MERN stack.
+An interactive game designed to test employees’ knowledge of garment defects.
 
-My responsibilities included:
+- Clothing defect image appears on screen  
+- Countdown timer starts  
+- Employee selects the correct defect type  
+- Score calculated after 10 images  
+- Performance evaluation based on results  
 
-Developing core inventory control features.
+Implemented using **Python** with a dataset-driven classification approach.
 
-Implementing low-stock alert functionality.
+---
 
-Building reporting features for stock analysis.
+## 👨‍💻 My Role – Inventory Management
 
-Designing responsive UI components using React and Bootstrap.
+I contributed to the **design and development of the Inventory Management module** using the MERN stack.
 
-Developing and optimizing backend APIs using Node.js and Express.
+### 🔹 Key Contributions
 
-Managing MongoDB schemas for inventory data.
+- Built core inventory control features  
+- Implemented automated low-stock alert system  
+- Developed stock reporting functionality  
+- Designed responsive UI using React and Bootstrap  
+- Developed and optimized backend APIs using Node.js & Express  
+- Managed MongoDB schemas for inventory data  
+- Ensured smooth frontend-backend integration  
+- Collaborated using GitHub for version control and issue tracking  
 
-Ensuring smooth frontend-backend integration.
+---
 
-Collaborating via GitHub for version control and issue tracking.
+## 🛠️ Technologies Used
 
-Technologies Used
-Frontend
+### 💻 Frontend
+- ReactJS  
+- Bootstrap  
 
-ReactJS
+### ⚙️ Backend
+- NodeJS  
+- ExpressJS  
 
-Bootstrap
+### 🗄️ Database
+- MongoDB  
 
-Backend
+### 🤖 AI & Additional Tools
+- Python  
+- Dataset-based image classification logic  
 
-NodeJS
+### 🔐 Authentication & Collaboration
+- JWT (Authentication)  
+- GitHub (Version Control & Team Collaboration)  
 
-ExpressJS
+---
 
-Database
+## 📚 Project Structure Highlights
 
-MongoDB
+- Modular system architecture  
+- RESTful API design  
+- Role-based functionality separation  
+- Full-stack integration  
+- AI-based interactive evaluation feature  
 
-AI & Additional Tools
+---
 
-Python (AI-based defect recognition game)
+## 👥 Team Project
 
-Dataset-based image classification logic
+Developed as a collaborative academic project with 5 team members, each responsible for a major functional module:
 
-Development & Collaboration
+- Production Management  
+- Inventory Management  
+- HR Management  
+- Financial Management  
+- Admin Module  
 
-GitHub (Version Control & Team Collaboration)
-
-JWT (Authentication)
-
-Key Sections
-
-Overview – Explains the system purpose, scope, and collaboration structure.
-Features – Highlights all major functional modules and the AI novelty feature.
-My Role – Details specific contributions to the Inventory Management module.
-Technologies Used – Lists frameworks, tools, and technologies implemented in the system.# NextSourcing
+---
